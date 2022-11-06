@@ -43,4 +43,4 @@ Therefore, I am striving to make Ari _less_ complicated than chess
 Language
 --------
 
-Ari is written in C89/90 (see Goal No. 1).
+Ari is written in C.
