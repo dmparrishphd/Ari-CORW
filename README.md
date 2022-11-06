@@ -48,4 +48,4 @@ Ari is written in C.
 Read More
 ---------
 
-\[[HERE]\](./var/opt/o0472141737327211107121024131553700252703263/share/doc/index.md)
+\[[HERE](./var/opt/o0472141737327211107121024131553700252703263/share/doc/index.md)\]
