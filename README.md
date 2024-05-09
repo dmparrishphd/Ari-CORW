@@ -19,6 +19,15 @@ Goals
  1. Simplicity (small code size, including code to compile Ari)
  2. Composability (multiple copies of Ari should be able to work together)
 
+Design Choices
+--------------
+
+- Program the computer on the computer.
+- Only "printing text" is written to the standard error stream.
+- Describable in Standard C with no other dependencies, with a few minor exceptions.
+- Single-stepping is facilitated.
+- Architecture and instruction set mesh with Forth.
+
 ### Benchmarks
 
  - The 6502 \[[1](https://westerndesigncenter.com/wdc/documentation/w65c02s.pdf),
