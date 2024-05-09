@@ -27,6 +27,7 @@ Design Choices
 - Describable in Standard C with no other dependencies, with a few minor exceptions.
 - Single-stepping is facilitated.
 - Architecture and instruction set mesh with Forth.
+- An 8-bit data stack facilitates the transfer of data between operations.
 
 ### Benchmarks
 
