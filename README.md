@@ -16,8 +16,9 @@ reduced instruction set computer
 Goals
 -----
 
- 1. Simplicity (small code size, including code to compile Ari)
- 2. Composability (multiple copies of Ari should be able to work together)
+ 1. Simplicity: small code size, including code to compile Ari.
+ 2. Composability: multiple copies of Ari should be able to work together.
+ 3. Comprehensibility: Source code should speak for itself; comments should be unnecessary.
 
 Design Choices
 --------------
@@ -52,10 +53,17 @@ Therefore, I am striving to make Ari _less_ complicated than chess
 
 Koopman PJ (1989) [Stack Computers: The New Wave](https://users.ece.cmu.edu/~koopman/stack_computers/index.html)
 
+Charles H. "Chuck" Moore.
+
+Ting CH (2013) _eForth and Zen_. Offete Enterprises. [Offete Store](
+https://www.forth.org/OffeteStore/OffeteStore.html)
+
 Language
 --------
 
 Ari is written in C.
+
+CH Ting and others have several publications in which Forth is fully specified in terms of a machine-specific assembly language. In writing Ari in C, we trade a degree of specificity for a degree of comprehensibility.
 
 Read More
 ---------
