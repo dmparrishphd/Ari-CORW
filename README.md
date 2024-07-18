@@ -50,6 +50,8 @@ Therefore, I am striving to make Ari _less_ complicated than chess
 \[[1](https://handbook.fide.com/chapter/E012018),
 [2](https://en.wikipedia.org/wiki/Rules_of_chess)\].
 
+Koopman PJ (1989) [Stack Computers: The New Wave](https://users.ece.cmu.edu/~koopman/stack_computers/index.html)
+
 Language
 --------
 
