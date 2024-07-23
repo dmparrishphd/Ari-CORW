@@ -1,7 +1,7 @@
 Character Sets
 ==============
 
-Basic-Graph,<br>
+The Basic-Graph,<br>
 Basic-Print, and<br>
 Basic-Text<br>
 Character Sets
@@ -31,7 +31,10 @@ The _a-graph_ characters include the _basic-graph_ characters as well as `U+0024
 
 The _a-print_ characters include the _a-graph_ and space (`U+0020`) characters only.
 
-A requirement of the system simulating Ari is that the execution character set include in a continuous range of positively-valued `char`-s the _a-print_ characters. This allows determination of whether a character is an _a-print_ character in O(0) time complexity.
+The Execution Character Set
+---------------------------
+
+A requirement of the system simulating Ari is that the execution character set include in a continuous range of positively-valued `char`-s the _a-graph_ characters. This allows determination of whether a character is an _a-graph_ character in O(0) time complexity.
 
 ________________________________________________________________
 
