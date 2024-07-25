@@ -32,6 +32,7 @@ Design Choices
 
 ### Benchmarks
 
+ - The F18A Computer and the 144-processor supercomputer designed by Chuck Moore and GreenArrays.
  - The 6502 \[[1](https://westerndesigncenter.com/wdc/documentation/w65c02s.pdf),
  [2](https://en.wikipedia.org/wiki/MOS_Technology_6502),
  [3](http://6502.org/)\]
