@@ -5,13 +5,10 @@ Ari
 
 Status: _In Progress_
 
-Ari is a
-[virtual machine](https://en.wikipedia.org/wiki/Virtual_machine)
-to support what might become _Ariadne IV_.
+Ari is a [virtual](https://en.wikipedia.org/wiki/Virtual_machine) [stack machine](https://en.m.wikipedia.org/wiki/Stack_machine) and virtual [reduced instruction set computer (RISC)](https://en.wikipedia.org/wiki/Reduced_instruction_set_computer).
 
-Ari is a virtual machine and a virtual
-reduced instruction set computer
-\[[RISC](https://en.wikipedia.org/wiki/Reduced_instruction_set_computer)\].
+Ari is intended to support Ariadne IV, a dialect of Forth. Predecessors of Ariadne IV include Ariadne III, one of a few [Python 4th's (Python Forths)](https://github.com/dmparrishphd/Python4th)
+
 
 Goals
 -----
@@ -32,7 +29,7 @@ Design Choices
 
 ### Benchmarks
 
- - The F18A Computer and the 144-processor supercomputer designed by Chuck Moore and GreenArrays.
+ - The [F18A Computer and the GA 144)(https://www.greenarraychips.com/home/documents/index.php] a 144-processor supercomputer designed by Chuck Moore and [GreenArrays](https://www.greenarraychips.com/index.html).
  - The 6502 \[[1](https://westerndesigncenter.com/wdc/documentation/w65c02s.pdf),
  [2](https://en.wikipedia.org/wiki/MOS_Technology_6502),
  [3](http://6502.org/)\]
