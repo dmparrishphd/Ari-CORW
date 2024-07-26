@@ -13,14 +13,14 @@ Ari is intended to support Ariadne IV, a dialect of Forth. Predecessors of Ariad
 Goals
 -----
 
- 1. Simplicity: small code size, including code to compile Ari.
- 2. Composability: multiple copies of Ari should be able to work together.
- 3. Comprehensibility: Source code should speak for itself; comments should be unnecessary.
+ - Composability: multiple copies of Ari should be able to work together.
+ - Comprehensibility: Source code should speak for itself; comments should be unnecessary.
+ - Programability: The user should be able to program the computer on the computer without "dev kits," cross compilers, etc.
+ - Simplicity: small code size, including code to compile Ari.
 
 Design Choices
 --------------
 
-- Program the computer on the computer.
 - Only "printing text" is written to the standard error stream.
 - Describable in Standard C with no other dependencies, with a few minor exceptions.
 - Single-stepping is facilitated.
