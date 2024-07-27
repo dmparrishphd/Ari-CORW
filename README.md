@@ -1,5 +1,7 @@
 _This is the CORW repository for Ari._
 
+-----
+
 Ari
 ===
 
@@ -29,7 +31,7 @@ Design Choices
 
 ### Benchmarks
 
- - The [F18A Computer and the GA 144)(https://www.greenarraychips.com/home/documents/index.php] a 144-processor supercomputer designed by Chuck Moore and [GreenArrays](https://www.greenarraychips.com/index.html).
+ - The [F18A Computer and the GA 144](https://www.greenarraychips.com/home/documents/index.php) a 144-processor supercomputer designed by Chuck Moore and [GreenArrays](https://www.greenarraychips.com/index.html). The F18A has (only) 32 instructions. 
  - The 6502 \[[1](https://westerndesigncenter.com/wdc/documentation/w65c02s.pdf),
  [2](https://en.wikipedia.org/wiki/MOS_Technology_6502),
  [3](http://6502.org/)\]
