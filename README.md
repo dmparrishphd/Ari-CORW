@@ -1,11 +1,10 @@
-_This is the CORW repository for Ari._
-
------
-
 Ari
 ===
 
-Status: _In Progress_
+Introduction
+------------
+
+This is the CORW repository for Ari.
 
 Ari is a [virtual](https://en.wikipedia.org/wiki/Virtual_machine) [stack machine](https://en.m.wikipedia.org/wiki/Stack_machine) and virtual [reduced instruction set computer (RISC)](https://en.wikipedia.org/wiki/Reduced_instruction_set_computer).
 
