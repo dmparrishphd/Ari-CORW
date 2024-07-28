@@ -4,11 +4,11 @@ Ari
 Introduction
 ------------
 
-This is the CORW repository for Ari.
+This is the CORW (create once; read and write many times) repository for Ari.
 
 Ari is a [virtual](https://en.wikipedia.org/wiki/Virtual_machine) [stack machine](https://en.m.wikipedia.org/wiki/Stack_machine) and virtual [reduced instruction set computer (RISC)](https://en.wikipedia.org/wiki/Reduced_instruction_set_computer).
 
-Ari is intended to support Ariadne IV, a dialect of Forth. Predecessors of Ariadne IV include Ariadne III, one of a few [Python 4th's (Python Forths)](https://github.com/dmparrishphd/Python4th)
+Ari is intended to support Ariadne IV, a dialect of [Forth](http://forth.org). Predecessors of Ariadne IV include Ariadne III, one of a few [Python 4th's (Python Forths)](https://github.com/dmparrishphd/Python4th)
 
 
 Goals
